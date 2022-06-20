@@ -1,2 +1,2 @@
-# CourseraSolutions
-Solutions for coding problems in courses taken through Coursera
+# Coursera_Bioinformatics
+This repository consists of coding solutions for Bioinformatics courses taken through Coursera.
